@@ -1,0 +1,5 @@
+E:\Software Quality\CircleApplication\CircleDetailsTest\obj\Debug\net6.0\CircleDetailsTest.csproj.AssemblyReference.cache
+E:\Software Quality\CircleApplication\CircleDetailsTest\obj\Debug\net6.0\CircleDetailsTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Quality\CircleApplication\CircleDetailsTest\obj\Debug\net6.0\CircleDetailsTest.AssemblyInfoInputs.cache
+E:\Software Quality\CircleApplication\CircleDetailsTest\obj\Debug\net6.0\CircleDetailsTest.AssemblyInfo.cs
+E:\Software Quality\CircleApplication\CircleDetailsTest\obj\Debug\net6.0\CircleDetailsTest.csproj.CoreCompileInputs.cache

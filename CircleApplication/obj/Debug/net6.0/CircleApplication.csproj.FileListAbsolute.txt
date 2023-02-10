@@ -1,0 +1,15 @@
+E:\Software Quality\CircleApplication\CircleApplication\bin\Debug\net6.0\CircleApplication.exe
+E:\Software Quality\CircleApplication\CircleApplication\bin\Debug\net6.0\CircleApplication.deps.json
+E:\Software Quality\CircleApplication\CircleApplication\bin\Debug\net6.0\CircleApplication.runtimeconfig.json
+E:\Software Quality\CircleApplication\CircleApplication\bin\Debug\net6.0\CircleApplication.dll
+E:\Software Quality\CircleApplication\CircleApplication\bin\Debug\net6.0\CircleApplication.pdb
+E:\Software Quality\CircleApplication\CircleApplication\obj\Debug\net6.0\CircleApplication.csproj.AssemblyReference.cache
+E:\Software Quality\CircleApplication\CircleApplication\obj\Debug\net6.0\CircleApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Quality\CircleApplication\CircleApplication\obj\Debug\net6.0\CircleApplication.AssemblyInfoInputs.cache
+E:\Software Quality\CircleApplication\CircleApplication\obj\Debug\net6.0\CircleApplication.AssemblyInfo.cs
+E:\Software Quality\CircleApplication\CircleApplication\obj\Debug\net6.0\CircleApplication.csproj.CoreCompileInputs.cache
+E:\Software Quality\CircleApplication\CircleApplication\obj\Debug\net6.0\CircleApplication.dll
+E:\Software Quality\CircleApplication\CircleApplication\obj\Debug\net6.0\refint\CircleApplication.dll
+E:\Software Quality\CircleApplication\CircleApplication\obj\Debug\net6.0\CircleApplication.pdb
+E:\Software Quality\CircleApplication\CircleApplication\obj\Debug\net6.0\CircleApplication.genruntimeconfig.cache
+E:\Software Quality\CircleApplication\CircleApplication\obj\Debug\net6.0\ref\CircleApplication.dll
