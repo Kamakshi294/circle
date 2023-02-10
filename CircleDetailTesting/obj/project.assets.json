@@ -6352,23 +6352,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {},
+    "C:\\Users\\kamak\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Software Quality\\CircleApplication\\CircleDetailTesting\\CircleDetailTesting.csproj",
+      "projectUniqueName": "C:\\assignment\\circle\\CircleDetailTesting\\CircleDetailTesting.csproj",
       "projectName": "CircleDetailTesting",
-      "projectPath": "E:\\Software Quality\\CircleApplication\\CircleDetailTesting\\CircleDetailTesting.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "E:\\Software Quality\\CircleApplication\\CircleDetailTesting\\obj\\",
+      "projectPath": "C:\\assignment\\circle\\CircleDetailTesting\\CircleDetailTesting.csproj",
+      "packagesPath": "C:\\Users\\kamak\\.nuget\\packages\\",
+      "outputPath": "C:\\assignment\\circle\\CircleDetailTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kamak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6377,14 +6377,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Software Quality\\CircleApplication\\CircleApplication\\CircleApplication.csproj": {
-              "projectPath": "E:\\Software Quality\\CircleApplication\\CircleApplication\\CircleApplication.csproj"
+            "C:\\assignment\\circle\\CircleApplication\\CircleApplication.csproj": {
+              "projectPath": "C:\\assignment\\circle\\CircleApplication\\CircleApplication.csproj"
             }
           }
         }
@@ -6432,7 +6433,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -12,7 +12,6 @@ namespace CircleApplication
     public class CircleDetails
     {
         private int _radius;
-
         public CircleDetails()
         {
             _radius = 1;
